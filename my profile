@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Profile</title>
+</head>
+<body>
+
+    <nav>About Me &nbsp;&nbsp;Hobbies&nbsp;&nbsp;Contact</nav>
+   
+    <p>I am Adeogun Titus, from Akoko-Edo Local Government Area, Edo State of Nigeria, a fellow of the 3 Million Technical Talent cohort 3 studying 
+    software Development.
+    </p>
+    <img src="my_profile.jpg" alt="my_profile_pix" height="" width="">
+
+<h3>HOBBIES</h3>
+<ol type="1">
+    <li>3MTT</li>
+    <li>DAREY.IO</li>
+    <li>SOFTWARE DEVELOMENT</li>
+</ol>
+
+<footer>
+    <h5>EMAIL:titusadeogun@gmail.com &nbsp;&nbsp;X:@orgatitus</h5>
+</footer>
+</body>
+</html>
